@@ -2,7 +2,7 @@
 
  💫 About me:
 
-Hi, I'm Gonzalo an FrontEnd developer, passionate about technology and continuous learning.
+Hi, I'm Gonzalo, A FrontEnd developer, passionate about technology and continuous learning
 
 ⚡ FrontEnd Developer.<br>💬 1 year of experience in personal projects.
 
