@@ -1,6 +1,6 @@
 <img src="./icons/portadaGonzalo.png" alt="banner by Carlos Gonzalo Gallardo">
 
-#💫 About me:
+ 💫 About me:
 
 Hi, I'm Gonzalo an FrontEnd developer, passionate about technology and continuous learning.
 
