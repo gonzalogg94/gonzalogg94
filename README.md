@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGQpa8HfBQoKw/profile-displaybackgroundimage-shrink_350_1400/0/1688429225981?e=1694044800&v=beta&t=poxH3b3BsU_B8nmx91W2OtwxPXclIiSqfbYdJffij_M" alt="banner by Emilse A. Arias, systems engineer and software developer">
+<img src="https://www.canva.com/design/DAFn0PbQGiM/QutOrORw9T4RFhLtrHE4yQ/watch?utm_content=DAFn0PbQGiM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="banner by Emilse A. Arias, systems engineer and software developer">
 
 
 # 💫 About me:
