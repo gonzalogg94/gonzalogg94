@@ -1,3 +1,6 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQGQpa8HfBQoKw/profile-displaybackgroundimage-shrink_350_1400/0/1688429225981?e=1694044800&v=beta&t=poxH3b3BsU_B8nmx91W2OtwxPXclIiSqfbYdJffij_M" alt="banner by Emilse A. Arias, systems engineer and software developer">
+
+
 # 💫 About me:
 
 Hi, I'm Gonzalo an FrontEnd developer, passionate about technology and continuous learning.
