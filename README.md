@@ -1,5 +1,3 @@
-<img src="https://www.canva.com/design/DAFn0PbQGiM/QutOrORw9T4RFhLtrHE4yQ/watch?utm_content=DAFn0PbQGiM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="banner by Emilse A. Arias, systems engineer and software developer">
-
 
 # 💫 About me:
 
