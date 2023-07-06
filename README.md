@@ -1,8 +1,8 @@
 # 💫 Acerca de mi:
-⚡ Full Stack Developer.<br>💬 1 año de experiencia en proyectos personales.
+⚡ Front End Developer.<br>💬 1 year of experience in personal projects.
 
 
-## 🌐 Redes sociales:
+## 🌐 Social networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-gonzalo-gallardo-a329a7239/) 
 
 # 💻 Tecnologias:
