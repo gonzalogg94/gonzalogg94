@@ -1,4 +1,8 @@
+# Hi, I'm Gonzalo! 👋
+
+
 <img src="./icons/portadaGonzalo.png" alt="banner by Carlos Gonzalo Gallardo">
+
 
  💫 About me:
 
