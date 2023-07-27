@@ -1,5 +1,7 @@
 # Hi, I'm Gonzalo! 👋
 🤔 I think that programming opens the doors where the limits are directly proportional to your creativity.
+
+
 <img src="./icons/portadaGonzalo.png" alt="banner by Carlos Gonzalo Gallardo">
 
 
