@@ -11,6 +11,8 @@ Hi, I'm Gonzalo, A FrontEnd developer 👩‍💻, passionate about technology a
 
 ⚡ FrontEnd Developer.<br>💬 1 year of experience in personal projects.
 
+- 📫 If you want to contact me you can do it through: **gonzalo94.jobs@gmail.com**
+
 
 ## 🌐 Social networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-gonzalo-gallardo-a329a7239/) 
