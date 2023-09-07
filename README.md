@@ -1,5 +1,18 @@
-# Hi, I'm Gonzalo! 👋
-🤔 I think that programming opens the doors where the limits are directly proportional to your creativity.
+<p align="center" width="300">
+  <img align="center" width="200" src="./icons/yo.png" />
+  <h3 align="center">¡Hi 👋! I'm Gonzalo</h3>
+</p>
+<p align="center">I'm a <strong>Front End</strong> developer<br />¡Check my content 👇!</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/carlos-gonzalo-gallardo-a329a7239/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicode" height="28px" width="28px" />
+  </a>
+</p>
+
+ 
+<h4 align="center">🤔 I think that programming opens the doors where the limits are directly proportional to your creativity.</h4>
+
+
 
 
 <img src="./icons/portadaGonzalo.png" alt="banner by Carlos Gonzalo Gallardo">
